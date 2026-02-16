@@ -75,7 +75,7 @@
 	"homepage": "https://github.com/heiwa4126/heiwa4126-hello0#readme",
 	"license": "MIT",
 	"devDependencies": {
-		"@biomejs/biome": "^2.3.15",
+		"@biomejs/biome": "^2.4.0",
 		"@heiwa4126/clean-publish-scripts": "^0.0.4",
 		"@hono/node-server": "^1.19.9",
 		"@types/node": "^25.2.3",
