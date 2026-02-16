@@ -2,7 +2,7 @@
 import { hello, version } from "./index.js";
 
 function printHelp() {
-	console.log(`Usage: heiwa4126-hello5 [-h|--help] [-v|--version]
+	console.log(`Usage: heiwa4126-hello0 [-h|--help] [-v|--version]
 
 Options:
   -h, --help     Show this help message

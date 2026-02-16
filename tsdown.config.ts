@@ -39,7 +39,7 @@ export default defineConfig([
 		unbundle: false,
 		sourcemap: false,
 		dts: false,
-		globalName: "Heiwa4126Hello5",
+		globalName: "Heiwa4126hello0",
 		minify: true,
 		outputOptions: {
 			// outExtensionsでは対応できない。hello.iife.global.js になる
