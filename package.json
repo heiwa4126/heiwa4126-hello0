@@ -75,10 +75,10 @@
 	"homepage": "https://github.com/heiwa4126/heiwa4126-hello0#readme",
 	"license": "MIT",
 	"devDependencies": {
-		"@biomejs/biome": "^2.4.0",
+		"@biomejs/biome": "^2.4.4",
 		"@heiwa4126/clean-publish-scripts": "^0.0.4",
 		"@hono/node-server": "^1.19.9",
-		"@types/node": "^25.2.3",
+		"@types/node": "^25.3.3",
 		"@vitest/coverage-v8": "4.0.18",
 		"hono": "^4.11.10",
 		"npm-run-all2": "^8.0.4",
