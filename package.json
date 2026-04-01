@@ -76,16 +76,16 @@
 	"license": "MIT",
 	"devDependencies": {
 		"@biomejs/biome": "^2.4.4",
-		"@heiwa4126/clean-publish-scripts": "^0.0.4",
-		"@hono/node-server": "^1.19.11",
-		"@types/node": "^25.3.3",
-		"@vitest/coverage-v8": "4.0.18",
-		"hono": "^4.12.7",
+		"@heiwa4126/clean-publish-scripts": "^0.0.6",
+		"@hono/node-server": "^1.19.12",
+		"@types/node": "^25.5.0",
+		"@vitest/coverage-v8": "4.1.2",
+		"hono": "^4.12.9",
 		"npm-run-all2": "^8.0.4",
-		"tsdown": "^0.20.3",
+		"tsdown": "^0.21.7",
 		"tsx": "^4.21.0",
-		"typescript": "^5.9.3",
-		"vitest": "^4.0.18"
+		"typescript": "^6.0.2",
+		"vitest": "^4.1.2"
 	},
 	"engines": {
 		"node": ">=18.0.0"
