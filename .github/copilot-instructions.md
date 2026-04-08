@@ -9,12 +9,12 @@ This is a TypeScript library (`@heiwa4126/hello0`) that demonstrates modern npm 
 The build produces the following outputs:
 
 - **Node.js:**
-	- ESM (`.js`)
-	- CommonJS (`.cjs`)
-	- TypeScript definitions (`.d.ts`)
+  - ESM (`.js`)
+  - CommonJS (`.cjs`)
+  - TypeScript definitions (`.d.ts`)
 - **Browser:**
-	- ESM (for CDN import, e.g. esm.sh, jsDelivr, unpkg)
-	- Classic Script (IIFE, exposes `Heiwa4126hello0` global)
+  - ESM (for CDN import, e.g. esm.sh, jsDelivr, unpkg)
+  - Classic Script (IIFE, exposes `Heiwa4126hello0` global)
 
 ## Architecture & Build System
 
