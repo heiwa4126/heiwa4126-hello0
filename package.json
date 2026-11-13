@@ -77,7 +77,7 @@
 	},
 	"devDependencies": {
 		"@heiwa4126/clean-publish-scripts": "^0.0.6",
-		"@hono/node-server": "^2.1.5",
+		"@hono/node-server": "^2.1.6",
 		"@types/node": "^26.6.5",
 		"@vitest/coverage-v8": "^5.0.5",
 		"hono": "^4.13.14",
